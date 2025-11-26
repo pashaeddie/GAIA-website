@@ -472,7 +472,7 @@ footer .footer-content h3 {
 }
  /* Seas hero and background image */
         .seas-hero{
-          background-image: url('seas-bg.jpg');  
+          background-image: url('images/seas-bg.jpg');  
           background-size: cover;
           text-align: center;
           background-position: center;
@@ -503,7 +503,7 @@ footer .footer-content h3 {
 
         .mountains-hero {
            
-            background-image: url('mt-bg.jpg');
+            background-image: url('images/mt-bg.jpg');
             background-size: cover;
             background-position: center; 
             text-align: center;
@@ -522,7 +522,7 @@ footer .footer-content h3 {
 
         .hero {
            
-            background-image: url('ocean-bg.jpg');
+            background-image: url('images/ocean-bg.jpg');
             border-radius: 10px;
             background-size: cover;
             background-position: center; 
