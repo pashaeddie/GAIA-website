@@ -43,7 +43,7 @@ h1 , h2, h3, h4, h5, h6 {
 
         .forest-hero
         {
-            background-image: url(images/forest-bg.jpg);
+            background-image: url('images/forest-bg.jpg');
             background-position: center;
             background-size: cover;
             padding:100px 20px;
@@ -69,7 +69,7 @@ h1 , h2, h3, h4, h5, h6 {
         }
         /*About us hero and background image */
         .about-hero{
-            background-image: url(images/about-bg.jpg);
+            background-image: url('images/about-bg.jpg');
             background-position: center;
             background-size: cover;
             color: #ffffff;
